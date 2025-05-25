@@ -35,6 +35,7 @@ public class SignInFragment extends Fragment {
     private static final String ARG_PARAM2 = "param2";
 
     // TODO: Rename and change types of parameters
+    //name change
     private String mParam1;
     private String mParam2;
 
